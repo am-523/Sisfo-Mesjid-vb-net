@@ -1,0 +1,14 @@
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\bin\Debug\Sisfo Mesjid.exe.config
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\bin\Debug\Sisfo Mesjid.exe
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\bin\Debug\Sisfo Mesjid.pdb
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\bin\Debug\Sisfo Mesjid.xml
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\bin\Debug\Guna.UI.dll
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.vbprojAssemblyReference.cache
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo_Mesjid.Form1.resources
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo_Mesjid.Resources.resources
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.vbproj.GenerateResource.cache
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.vbproj.CoreCompileInputs.cache
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.vbproj.CopyComplete
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.exe
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.xml
+D:\Source Code Visual Studio 19\Sisfo Mesjid\Sisfo Mesjid\obj\Debug\Sisfo Mesjid.pdb
